@@ -82,7 +82,7 @@ export default function Footer() {
                 rel="noopener noreferrer"
                 className={`${linkCls} flex items-center gap-2`}
               >
-                <WhatsAppIcon className="h-4 w-4 shrink-0" /> {SITE.contacts.primary.name}: {SITE.contacts.primary.display}
+                <WhatsAppIcon className="h-4 w-4 shrink-0" /> {SITE.contacts.primary.display}: {SITE.contacts.primary.display}
               </a>
             </li>
             <li>
