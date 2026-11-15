@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/logo.png" alt="L&R Web Technologies Logo" width="110" />
+<img src="public/images/logo.png" alt="L&R Web Technologies Logo" width="110" />
 
 # L&R WEB TECHNOLOGIES
 
