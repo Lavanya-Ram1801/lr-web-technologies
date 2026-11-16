@@ -14,8 +14,8 @@ export const SITE = {
   instagramHandle: "@lrweb_technologies",
   instagramUrl: "https://www.instagram.com/lrweb_technologies/",
   contacts: {
-    primary: {   display: "+91 78452 01409" },
-    alternative: {  display: "+91 90430 62799" },
+    primary: {  wa: "917845201409", display: "+91 78452 01409" },
+    alternative: {  wa: "919043062799", display: "+91 90430 62799" },
   },
   freeRevisions: 3,
   pricingDisclaimer:
