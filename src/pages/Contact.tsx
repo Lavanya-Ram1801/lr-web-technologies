@@ -36,7 +36,7 @@ export default function Contact() {
                 <span>
                   <span className="block font-bold">Chat on WhatsApp</span>
                   <span className="text-sm text-soft">
-                    {SITE.contacts.primary.display} · {SITE.contacts.primary.display}
+                    {SITE.contacts.primary.display}
                   </span>
                 </span>
               </a>
@@ -45,7 +45,7 @@ export default function Contact() {
                 <span>
                   <span className="block font-bold">Alternative Contact</span>
                   <span className="text-sm text-soft">
-                    {SITE.contacts.alternative.display} · {SITE.contacts.alternative.display}
+                    {SITE.contacts.alternative.display}
                   </span>
                 </span>
               </a>
