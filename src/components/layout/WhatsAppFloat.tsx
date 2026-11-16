@@ -51,7 +51,7 @@ export default function WhatsAppFloat() {
                 <span>
                   Chat on WhatsApp
                   <span className="block text-xs font-normal opacity-80">
-                    {SITE.contacts.primary.name} · {SITE.contacts.primary.display}
+                    {SITE.contacts.primary.display} · {SITE.contacts.primary.display}
                   </span>
                 </span>
               </a>
@@ -65,7 +65,7 @@ export default function WhatsAppFloat() {
                 <span>
                   Alternative Contact
                   <span className="block text-xs font-normal text-soft">
-                    {SITE.contacts.alternative.name} · {SITE.contacts.alternative.display}
+                    {SITE.contacts.alternative.display} · {SITE.contacts.alternative.display}
                   </span>
                 </span>
               </a>

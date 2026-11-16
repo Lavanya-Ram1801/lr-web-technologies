@@ -69,7 +69,7 @@ export const FAQS: FaqItem[] = [
     id: "contact",
     category: "Contact",
     q: "How can I contact you?",
-    a: `You can use the Contact page form, email ${SITE.email}, or WhatsApp ${SITE.contacts.primary.name} on ${SITE.contacts.primary.display} (alternative: ${SITE.contacts.alternative.name}, ${SITE.contacts.alternative.display}). We can also arrange a Google Meet call.`,
+    a: `You can use the Contact page form, email ${SITE.email}, or WhatsApp ${SITE.contacts.primary.display} on ${SITE.contacts.primary.display} (alternative: ${SITE.contacts.alternative.display}, ${SITE.contacts.alternative.display}). We can also arrange a Google Meet call.`,
     keywords: ["contact", "reach", "email", "whatsapp", "phone", "call", "meet", "talk", "instagram", "speak"],
   },
   {
